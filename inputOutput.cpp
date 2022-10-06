@@ -12,7 +12,8 @@ int main()
     cin>>amount2;
     
     int sum = amount1+amount2;
-    cout<<sum<<endl;
+    int sub=amount1-amount2;
+    cout<<sum<<sub<<endl;
 
 
     return 0;
