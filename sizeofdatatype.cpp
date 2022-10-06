@@ -23,7 +23,8 @@ int main()
     cout<<"size of long int "<<sizeof(li)<<endl;
 
 
-
+   int *p;
+    cout<<"size of pointer "<<sizeof(p)<<endl;
 
     return 0;
 }
